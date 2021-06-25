@@ -1,0 +1,27 @@
+{
+  "name": "react-graphql",
+  "version": "0.1.0",
+  "description": "Graphql studies in react projects.",
+  "main": "src/pages/index.tsx",
+  "repository": "https://github.com/jsi1v4/react-graphql.git",
+  "author": "Jsi1v4 <me@jsi1v4.dev>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "11.0.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "17.0.11",
+    "eslint": "7.29.0",
+    "eslint-config-next": "11.0.1",
+    "typescript": "4.3.4"
+  }
+}
